@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hazem Mohammed Hazem Mohammed Mohammed</h1>
+<h1 align="center">Hi 👋, I'm Hazem Mohammed</h1>
 <h3 align="center">Flutter Developer | CS Student @ Arab Open University | Passionate about Clean Code & UI/UX</h3>
 
 - 🌱 I’m currently learning **Flutter**
