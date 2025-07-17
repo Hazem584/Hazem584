@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hazem Mohammed</h1>
-<h3 align="center">Flutter Developer | CS Student @ Arab Open University | Passionate about Clean Code & UI/UX</h3>
+<h3 align="center">Flutter Developer | CS Student @ Arab Open University | Passionate about Mobie App Development & Clean Code</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
